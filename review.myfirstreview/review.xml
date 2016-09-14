@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de:review id="myfirstreview" status="0" reference-id="someid" xmlns:de="http://de.tukl.softech.agileReview">
+  <de:personInCharge name="kim"/>
+  <de:description>scope</de:description>
+</de:review>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<de:comments xmlns:de="http://de.tukl.softech.agileReview">
+  <de:author name="A643239"/>
+  <de:files>
+    <de:project name="curso.git">
+      <de:folder name="src">
+        <de:folder name="main">
+          <de:folder name="java">
+            <de:folder name="com">
+              <de:folder name="atos">
+                <de:folder name="curso">
+                  <de:folder name="actions">
+                    <de:file name="MultipleActionsAction.java">
+                      <de:comment id="c0" author="A643239" reviewID="myfirstreview" creation-date="2016-09-14T13:55:32.356+01:00" last-modified="2016-09-14T13:57:40.130+01:00" priority="0" recipient="" status="0" revision="0">
+                        <de:text>Some test for agile review tool</de:text>
+                        <de:replies>
+                          <de:reply author="A643239" creation-date="2016-09-14T13:57:40.130+01:00">some reply</de:reply>
+                        </de:replies>
+                      </de:comment>
+                    </de:file>
+                    <de:file name="EmployeeDashboardAction.java">
+                      <de:comment id="c1" author="A643239" reviewID="myfirstreview" creation-date="2016-09-14T13:58:13.308+01:00" last-modified="2016-09-14T13:58:32.407+01:00" priority="0" recipient="" status="0" revision="0">
+                        <de:text>new comment here</de:text>
+                        <de:replies/>
+                      </de:comment>
+                      <de:comment id="c2" author="A643239" reviewID="myfirstreview" creation-date="2016-09-14T13:58:32.509+01:00" last-modified="2016-09-14T13:58:57.216+01:00" priority="0" recipient="" status="0" revision="0">
+                        <de:text>ssdfdf</de:text>
+                        <de:replies/>
+                      </de:comment>
+                      <de:comment id="c3" author="A643239" reviewID="myfirstreview" creation-date="2016-09-14T13:58:57.345+01:00" last-modified="2016-09-14T13:59:25.350+01:00" priority="0" recipient="" status="0" revision="0">
+                        <de:text>Some comment</de:text>
+                        <de:replies>
+                          <de:reply author="A643239" creation-date="2016-09-14T13:59:10.550+01:00">some reply</de:reply>
+                        </de:replies>
+                      </de:comment>
+                    </de:file>
+                  </de:folder>
+                </de:folder>
+              </de:folder>
+            </de:folder>
+          </de:folder>
+        </de:folder>
+      </de:folder>
+    </de:project>
+  </de:files>
+</de:comments>
